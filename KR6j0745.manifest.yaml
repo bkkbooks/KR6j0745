@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0745/v1
+canonical_location: https://kanripo.org/bkk/KR6j0745/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 成就夢想法
+  identifiers:
+    alt_id:
+    - X59n1052
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1052.xml
+    old_id: X59n1052
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0745_000.yaml, hash: 'sha256:99c5356d9222532ec27382500b34ef94e75c31a7af880a024a6725eb8c2c47ae'}
+  - {seq: 1, filename: KR6j0745_001.yaml, hash: 'sha256:38c5aaded6ca4d62730ea92b46f263d43b784dd6ebdfef3549134bd9966d8485'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0745_001.markers.yaml, hash: 'sha256:66ad88a547eb360f27c8e09d117855c00b3cda1d3fbf97ad44aba265c89ff591'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0745_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 871
+  label: 成就夢想法一卷
+  type: juan
+  level: 1
+hash: sha256:5069476da98a5b0dbceeb1983a4dda6c9ea0f53bc1791ce315927040d416c9e6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

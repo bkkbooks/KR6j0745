@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0745/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0745/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成就夢想法
+  identifiers:
+    krp: KR6j0745
+    cbeta: X59n1052
+    cbeta_old_id: X59n1052
+    authorityid: CA0000448
+    json_key: X1052
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1052.xml
+    old_id: X59n1052
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0745_000-X.yaml, hash: 'sha256:99c5356d9222532ec27382500b34ef94e75c31a7af880a024a6725eb8c2c47ae'}
+  - {seq: 1, filename: KR6j0745_001-X.yaml, hash: 'sha256:6fc8c9229c4c2f11eb3c9fc49b589ccf91589cd0f28f0c4d24dc1bcf7a9dd1a9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0745_000-X.markers.yaml, hash: 'sha256:f1bd479ed462eb9842d765811c960dbd1fd53aed96f495108c45bf5fb9fa0b94'}
+  - {seq: 1, role: markers, filename: assets/KR6j0745_001-X.markers.yaml, hash: 'sha256:d8a4928371683904573271226762c5c11739048da5e31bd2fa56e7eb75137a7d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0745_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 871
+  label: 成就夢想法一卷
+  type: juan
+  level: 1
+hash: sha256:42e7f0237282e340f6bbe301db6ebd983d16194175fdaf50d278a26556f59947
