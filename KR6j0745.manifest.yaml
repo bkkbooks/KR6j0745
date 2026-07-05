@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0745_000.yaml, hash: 'sha256:99c5356d9222532ec27382500b34ef94e75c31a7af880a024a6725eb8c2c47ae'}
-  - {seq: 1, filename: KR6j0745_001.yaml, hash: 'sha256:38c5aaded6ca4d62730ea92b46f263d43b784dd6ebdfef3549134bd9966d8485'}
+  - {seq: 1, filename: KR6j0745_001.yaml, hash: 'sha256:6fc8c9229c4c2f11eb3c9fc49b589ccf91589cd0f28f0c4d24dc1bcf7a9dd1a9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0745_001.markers.yaml, hash: 'sha256:66ad88a547eb360f27c8e09d117855c00b3cda1d3fbf97ad44aba265c89ff591'}
+  - {seq: 0, role: markers, filename: assets/KR6j0745_000.markers.yaml, hash: 'sha256:a42319ca44feff7b2d573ef6c87c0b68c943b9cb4783a49a638751703bb9ea1a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0745_001.markers.yaml, hash: 'sha256:4974b7f0eeced3fc71b5e3057e92b9e5a774205e773b3b5108913fb4e1d9d2e7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 成就夢想法一卷
   type: juan
   level: 1
-hash: sha256:5069476da98a5b0dbceeb1983a4dda6c9ea0f53bc1791ce315927040d416c9e6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5845f10b345e4228bc49d13c1b777314db5e25b8291ec51a2636099d139a68fd
