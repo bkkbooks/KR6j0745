@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0745/v1
 canonical_location: https://kanripo.org/bkk/KR6j0745/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 成就夢想法
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0745_000.yaml, hash: 'sha256:99c5356d9222532ec27382500b34ef94e75c31a7af880a024a6725eb8c2c47ae'}
-  - {seq: 1, filename: KR6j0745_001.yaml, hash: 'sha256:6fc8c9229c4c2f11eb3c9fc49b589ccf91589cd0f28f0c4d24dc1bcf7a9dd1a9'}
+  - {seq: 1, filename: KR6j0745_001.yaml, hash: 'sha256:5885d9d7c2d8c9e20a4ca63f26d26ef7fdebb0cede9b54a5ca0f94a36e5b8645'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0745_000.markers.yaml, hash: 'sha256:a42319ca44feff7b2d573ef6c87c0b68c943b9cb4783a49a638751703bb9ea1a'}
-  - {seq: 1, role: markers, filename: assets/KR6j0745_001.markers.yaml, hash: 'sha256:4974b7f0eeced3fc71b5e3057e92b9e5a774205e773b3b5108913fb4e1d9d2e7'}
+  - {seq: 1, role: markers, filename: assets/KR6j0745_001.markers.yaml, hash: 'sha256:5d8591e7f69b03d13f983768f8b175c6a58ce9e713755977059091dacf5201d3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 成就夢想法一卷
   type: juan
   level: 1
-hash: sha256:5845f10b345e4228bc49d13c1b777314db5e25b8291ec51a2636099d139a68fd
+hash: sha256:89549e6ab070fbd4fe4fa1e9c57380f47b67023dd1d83b917552bf8af80b8fc9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
